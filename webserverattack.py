@@ -29,3 +29,4 @@ for line in fdata:
 		
 #this will print out the directory information with the 200 response code
 #code 200 is target request has succeeded. the information with the response is dependent used in request.
+#once the user gets the results in the terminal copy the link and test it out on the chrome or any browser to make sure it ran.
